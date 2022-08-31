@@ -1,0 +1,26 @@
+.box {
+    width: 674px;
+    margin: 0 auto;
+}
+.cell {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.cell h6 {
+    width: 30%;
+    background-color: #0E9F87;
+    font-size: 20px;
+    padding: 3px 10px;
+    margin: 0;
+    margin-bottom: 3px;
+}
+.cell p {
+    width: 30%;
+    background-color: #E9C99D;
+    padding: 6px 10px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    margin: 3px 0;
+}
